@@ -25,7 +25,6 @@ battleArena.robots.forEach(robot=>{
     console.log(`${robot.x} ${robot.y} ${robot.direction}`);
 })
 
-
 // const stdin = process.openStdin();
 // console.log('Enter Details:')
 // stdin.addListener("data", function (d) {

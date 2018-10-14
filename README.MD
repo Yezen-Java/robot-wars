@@ -1,4 +1,4 @@
-# Robot wars
+# Robot Wars
 
 ## Pre-requisites
 

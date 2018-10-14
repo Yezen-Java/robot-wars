@@ -30,7 +30,6 @@ class BattleArea {
     get robots() {
         return this.robotsArray;
     }
-
 }
 
 module.exports = BattleArea;
